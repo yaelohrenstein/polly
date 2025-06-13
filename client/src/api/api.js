@@ -133,7 +133,7 @@ const api = {
           data: {
             ...notification,
             image: getAuth().currentUser.photoURL,
-            click_action: "https://polly-server.fly.dev",
+            click_action: "https://pollys-server.fly.dev",
           },
           topic,
         };
@@ -147,7 +147,7 @@ const api = {
           data: {
             ...notification,
             image: getAuth().currentUser.photoURL,
-            click_action: "https://polly-server.fly.dev",
+            click_action: "https://pollys-server.fly.dev",
           },
           tokens,
         };
