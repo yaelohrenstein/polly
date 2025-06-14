@@ -1,10 +1,11 @@
 {
-    "name":"Erez",
-    "short_name":"Erez",
+    "name":"Polly",
+    "short_name":"Polly",
     "start_url":"/",
     "display":"standalone",
     "background_color":"#000000","lang":"en",
-    "scope":"/","gcm_sender_id":"103953800507",
+    "scope":"/",
+    "gcm_sender_id":"1047611297686",
     "icons":[
         {"src":"/logo-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
         {"src":"/logo-512.png","sizes":"512x512","type":"image/png","purpose":"any"},

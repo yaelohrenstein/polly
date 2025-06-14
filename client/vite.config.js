@@ -21,7 +21,7 @@ export default defineConfig({
       manifest: {
         name: "Polly",
         short_name: "Polly",
-        gcm_sender_id: "103953800507",
+        gcm_sender_id: "1047611297686",
         icons: [
           {
             src: "/logo-192.png",
