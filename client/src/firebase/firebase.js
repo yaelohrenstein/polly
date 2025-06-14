@@ -22,7 +22,7 @@ export const getNotificationToken = async () => {
   try {
     const token = await getToken(messaging, {
       vapidKey:
-        "BG2bw2WVmLskDqWHGYk-Dl7QxQ2S-_r1Fri74KXmZE67s1lQlIduZlwXARO6i5aujAce-l_d_BYAx2arIdaR9yo",
+        "BNtOBv8BTDC2scY-AI5jLVLS42Bd4Kc-m1cMH22t9-BNQLvMbGDtrSokTycovVHJuxc_eCg51z79T1dxMC2TYdY",
     });
 
     if (token) {
